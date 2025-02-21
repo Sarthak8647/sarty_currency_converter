@@ -1,6 +1,5 @@
-# sarty_currency_converter
-
 💰 Currency Converter
+
 A simple and efficient Currency Converter that allows users to convert between different currencies using real-time exchange rates.
 
 🚀 Features
